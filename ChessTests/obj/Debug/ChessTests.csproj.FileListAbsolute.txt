@@ -1,0 +1,8 @@
+D:\Chess\ChessTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Chess\ChessTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Chess\ChessTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Chess\ChessTests\bin\Debug\ChessTests.pdb
+D:\Chess\ChessTests\obj\Debug\ChessTests.csprojResolveAssemblyReference.cache
+D:\Chess\ChessTests\obj\Debug\ChessTests.csproj.CoreCompileInputs.cache
+D:\Chess\ChessTests\obj\Debug\ChessTests.dll
+D:\Chess\ChessTests\obj\Debug\ChessTests.pdb

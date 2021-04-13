@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Chess.clase.Cal">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clase\Cal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.clase.Client" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACgAAACAAAAAAAAAACAAAAAgACAAAAAACAAABAAAAAA=</HashCode>
+      <FileName>clase\Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.clase.Jucator" Collapsed="true">
+    <Position X="14.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>clase\Jucator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.clase.Miscare" Collapsed="true">
+    <Position X="16" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAIAAABACAAAQAgAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clase\Miscare.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.clase.Ofiter">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clase\Ofiter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.clase.Piesa">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAMAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>clase\Piesa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.clase.Pion">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clase\Pion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.clase.Rege">
+    <Position X="4.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clase\Rege.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.clase.Regina">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clase\Regina.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.clase.RegulaTipPiesa" Collapsed="true">
+    <Position X="19.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clase\RegulaTipPiesa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.clase.Tabla" Collapsed="true">
+    <Position X="17.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAQAAAAAAAEIAAAAAAAABA=</HashCode>
+      <FileName>clase\Tabla.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.clase.TipPiesa" Collapsed="true">
+    <Position X="19.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAEAAAAAgA=</HashCode>
+      <FileName>clase\TipPiesa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.clase.Tura">
+    <Position X="8" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clase\Tura.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.clase.VariabileGlobale" Collapsed="true">
+    <Position X="14.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clase\VariabileGlobale.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.Form1" Collapsed="true">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACAAQAAAAACAAAACAAAAAAAAAAQAAABAEAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.ISTORIC" Collapsed="true">
+    <Position X="17.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>ISTORIC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.joc" Collapsed="true">
+    <Position X="19.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAIACAQCgBAAAQAAGAAAACIAAAAAC/QQAABAAAAAI=</HashCode>
+      <FileName>joc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.Program" Collapsed="true">
+    <Position X="17.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.Properties.Resources" Collapsed="true">
+    <Position X="14.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iQEACACgwEEAACAAIAABFCQQMQQAAAAAABQAAQAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chess.Properties.Settings" Collapsed="true">
+    <Position X="16" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
